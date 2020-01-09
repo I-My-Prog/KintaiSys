@@ -5,8 +5,9 @@
     <string name="config">設定</string>
     <string name="RegWindow">登録画面</string>
     <string name="readCard">読み取り</string>
-    <string name="CardID" translatable="false">カードID</string>
+    <string name="CardID" translatable="false">カードID:</string>
     <string name="Name" translatable="false">名前</string>
     <string name="inputName" />
     <string name="imputJob">役職入力</string>
+    <string name="Back">戻る</string>
 </resources>
